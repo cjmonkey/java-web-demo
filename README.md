@@ -1,11 +1,6 @@
 # java-web-demo
 ---
 
-
-
-
-> ### 这个示例，来自李振良：https://github.com/lizhenliang
-
 > ### 用于测试jenkins持续化构建使用
 > ### 依赖技术：
 ```
